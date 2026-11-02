@@ -6,23 +6,10 @@
     width="100%"
   />
 
-  <a href="https://github.com/samarth-khera">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=44&lines=Building+AI-powered+applications;Exploring+Machine+Learning+and+Generative+AI;Turning+real-world+problems+into+software+solutions;Developing+full-stack+applications"
-      alt="Animated typing introduction: Building AI-powered applications, Exploring Machine Learning and Generative AI, Turning real-world problems into software solutions, Developing full-stack applications"
-    />
-  </a>
+  <a href="https://github.com/samarth-khera"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=44&lines=Building+AI-powered+applications;Exploring+Machine+Learning+and+Generative+AI;Turning+real-world+problems+into+software+solutions;Developing+full-stack+applications" alt="Animated typing introduction: Building AI-powered applications, Exploring Machine Learning and Generative AI, Turning real-world problems into software solutions, Developing full-stack applications" /></a>
 
   <p>
-    <a href="https://samarth-khera-portfolio.vercel.app">
-      <img src="https://img.shields.io/badge/WEB-Portfolio-6D28D9?style=for-the-badge&labelColor=111827" alt="Samarth Khera Portfolio Website" />
-    </a>&nbsp;
-    <a href="https://www.linkedin.com/in/samarth-khera-a6b94a301/">
-      <img src="https://img.shields.io/badge/IN-LinkedIn-2563EB?style=for-the-badge&labelColor=111827" alt="Samarth Khera LinkedIn Profile" />
-    </a>&nbsp;
-    <a href="https://github.com/samarth-khera">
-      <img src="https://img.shields.io/badge/GH-GitHub-4F46E5?style=for-the-badge&labelColor=111827" alt="Samarth Khera GitHub Profile" />
-    </a>
+    <a href="https://samarth-khera-portfolio.vercel.app"><img src="https://img.shields.io/badge/WEB-Portfolio-6D28D9?style=for-the-badge&labelColor=111827" alt="Samarth Khera Portfolio Website" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/samarth-khera-a6b94a301/"><img src="https://img.shields.io/badge/IN-LinkedIn-2563EB?style=for-the-badge&labelColor=111827" alt="Samarth Khera LinkedIn Profile" /></a>&nbsp;&nbsp;<a href="https://github.com/samarth-khera"><img src="https://img.shields.io/badge/GH-GitHub-4F46E5?style=for-the-badge&labelColor=111827" alt="Samarth Khera GitHub Profile" /></a>
   </p>
 
 </div>
@@ -131,12 +118,7 @@ I am a **B.Tech Computer Science and Engineering** undergraduate at **Newton Sch
         <img src="https://img.shields.io/badge/SQLite-1E293B?style=flat-square" alt="SQLite badge" />
       </p>
       <p>
-        <a href="https://github.com/samarth-khera/FraudAi">
-          <img src="https://img.shields.io/badge/Source-Repository-4F46E5?style=flat-square&labelColor=0D1117" alt="FraudShield AI GitHub Repository" />
-        </a>&nbsp;
-        <a href="https://fraudshield-ai-psi.vercel.app">
-          <img src="https://img.shields.io/badge/Live-Demo-6D28D9?style=flat-square&labelColor=0D1117" alt="FraudShield AI Live Demo" />
-        </a>
+        <a href="https://github.com/samarth-khera/FraudAi"><img src="https://img.shields.io/badge/Source-Repository-4F46E5?style=flat-square&labelColor=0D1117" alt="FraudShield AI GitHub Repository" /></a>&nbsp;&nbsp;<a href="https://fraudshield-ai-psi.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-6D28D9?style=flat-square&labelColor=0D1117" alt="FraudShield AI Live Demo" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -162,12 +144,7 @@ I am a **B.Tech Computer Science and Engineering** undergraduate at **Newton Sch
         <img src="https://img.shields.io/badge/Docker-1E3A8A?style=flat-square" alt="Docker badge" />
       </p>
       <p>
-        <a href="https://github.com/samarth-khera/VibeShieldAi">
-          <img src="https://img.shields.io/badge/Source-Repository-4F46E5?style=flat-square&labelColor=0D1117" alt="VibeShield AI GitHub Repository" />
-        </a>&nbsp;
-        <a href="https://vibeshield-ai-phi.vercel.app">
-          <img src="https://img.shields.io/badge/Live-Demo-6D28D9?style=flat-square&labelColor=0D1117" alt="VibeShield AI Live Demo" />
-        </a>
+        <a href="https://github.com/samarth-khera/VibeShieldAi"><img src="https://img.shields.io/badge/Source-Repository-4F46E5?style=flat-square&labelColor=0D1117" alt="VibeShield AI GitHub Repository" /></a>&nbsp;&nbsp;<a href="https://vibeshield-ai-phi.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-6D28D9?style=flat-square&labelColor=0D1117" alt="VibeShield AI Live Demo" /></a>
       </p>
     </td>
   </tr>
